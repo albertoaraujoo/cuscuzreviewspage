@@ -1,0 +1,4 @@
+Projects brings a reviews page with reviews about a typical dish of north east brazilian culinary. 
+This project was built in HTML5, CSS3 and JavaScript. The right and left arrows change the review in focus, changing name, photo, review it self and job or title choose by the persons
+that helped with they reviews on this project.
+The button "surprise me" brings a random review (of the existent reviews in JS array code) to focus.
